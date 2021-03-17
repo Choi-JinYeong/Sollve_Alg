@@ -5,8 +5,6 @@ import java.io.InputStreamReader;
 
 // https://www.acmicpc.net/problem/14891
 
-// 1시간 30분 소요
-
 public class Main {
 
 	public static int[][] r;
